@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Honourable the House of Commons assembled in high court of Parliament: the humble petition of the Lord Mayor, aldermen, and commons of the City of London, in Common Councell assembled. Together with an humble representation of the pressing grievances and important desires of the well-affected freemen, and Covenant-engaged citizens of the City of London.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94481</idno>
+            <idno type="STC">Wing T1445</idno>
+            <idno type="STC">Thomason E366_15</idno>
+            <idno type="STC">Thomason E355_16</idno>
+            <idno type="STC">ESTC R201264</idno>
+            <idno type="EEBO-CITATION">99861791</idno>
+            <idno type="PROQUEST">99861791</idno>
+            <idno type="VID">160090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160090)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E366[15] or 59:E366[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Honourable the House of Commons assembled in high court of Parliament: the humble petition of the Lord Mayor, aldermen, and commons of the City of London, in Common Councell assembled. Together with an humble representation of the pressing grievances and important desires of the well-affected freemen, and Covenant-engaged citizens of the City of London.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6, 4, 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two parts. part 2, The humble petition of the Lord Mayor, aldermen, and commons of the City of London, in Common Councell assembled. .. Together with the severall answers of both Houses of Parliament to the said petitions and representation, has a separate dated title page, pagination and register.  Catchword on page 6 (1st sequence) ties the two parts together.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160090:1" rendition="simple:additions"/>
+            <p>The humble PETITION OF THE Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mons of the City of <hi>London,</hi> in Common Councell Aſſembled.</p>
+            <p>With an humble Repreſentation of the preſſing Grievances and important Deſires of the well-affected Freemen, and Covenant-engaged Citizens of the City of <hi>London,</hi> to the Lords and Commons aſſembled in high Court of PARLIAMENT.</p>
+            <p>Together with the ſeverall Anſwers of both Houſes of Parliament to the ſaid Petitions and Repreſentation.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>nourable City of London. 1646.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:160090:2"/>
+            <head>Die Sabbathi <hi>19.</hi> Decemb. <hi>1646.</hi>
+            </head>
+            <p>IT is Ordered by the Lords in Parliament Aſſembled, That the City Printer ſhall print and publiſh the two Petitions pre<g ref="char:EOLhyphen"/>ſented to this Houſe this day; the one en<g ref="char:EOLhyphen"/>tituled, The humble Petition of the Lord Mayor, Aldermen, and Commons of the City of <hi>London</hi> in Common Councell Aſ<g ref="char:EOLhyphen"/>ſembled: and the other entituled, An humble Repreſentation of the preſſing grievances, and important deſires of the well-affected Freemen, and Covenant-en<g ref="char:EOLhyphen"/>gaged Citizens of the City of <hi>London,</hi> and the Anſwer of the Lords in Parliament made this day unto them both.</p>
+            <closer>
+               <signed>Jo. Brown Cleric. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb n="3" facs="tcp:160090:2"/>
+            <head>Die Sabbathi <hi>19.</hi> Decemb. <hi>1646.</hi>
+            </head>
+            <p>THe Lords are ſo fully ſatisfied with the conſtant and reall expreſſions of the fidelity and good affections of the Lord Mayor, Aldermen, Common Councell, and Citizens of the City of <hi>London,</hi> as they have commanded me to give hearty thanks upon the whole matter of the Petitions preſented by you from the Lord Mayor, Aldermen, Common Councell, and Citi<g ref="char:EOLhyphen"/>zens of the City of <hi>London,</hi> and to let you know that they will take the particulars of your Petitions into their ſpeedy conſide<g ref="char:EOLhyphen"/>ration.</p>
+            <closer>
+               <signed>Jo. Brown Cleric. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>Die Sabbathi <hi>19.</hi> Decemb. <hi>1646.</hi>
+            </head>
+            <p>THe Houſe being informed, That divers Alder<g ref="char:EOLhyphen"/>men and Citizens of the City of <hi>London</hi> were at
+<pb n="4" facs="tcp:160090:3"/> the Doore they were called in, and Maſter Alderman, <hi>Bunce</hi> preſented to the Houſe a Petition, entituled, <hi>The humble Petition of the Lord Mayor, Aldermen and Com<g ref="char:EOLhyphen"/>mons of the City of London, in Common-Councell Aſſembled, Together with an humble Repreſentation of the preſſing grie<g ref="char:EOLhyphen"/>vances, and important deſires of the well-affected Free-men, and Covenant-engaged Citizens of the City of London, thereunto annexed:</hi> The which (the Citizens being withdrawne) were both of them read And it is</p>
+            <p>Reſolved upon the Queſtion, by the Commons Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That this Petition, and the Repreſentation annexed, be taken into conſideration on Tueſday morning next, notwithſtanding any for<g ref="char:EOLhyphen"/>mer Order.</p>
+            <p>Ordered by the Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That Maſter Speaker do give the Petitioners thanks for their conſtant good affections.</p>
+            <p>The Petitioners were againe called in, and Maſter Speaker accordingly, by Command and Order of the Houſe did give them thanks for their conſtant good affections, and did further acquaint them, That they had read their Petition, and the Repreſentation annexed, and that they have appointed a very ſhort day to take them into conſideration.</p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160090:3"/>
+            <head>
+               <hi>TO THE RIGHT HONORABLE THE</hi> LORDS <hi>and</hi> COMMONS <hi>ASSEMBLED</hi> In the High Court of <hi>PARLIAMENT:</hi> An humble Repreſentation of the preſsing grie<g ref="char:EOLhyphen"/>vances, and important deſires of the well-affected Freemen, and Covenant-engaged Citi<g ref="char:EOLhyphen"/>zens, of the City of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Ut of our zeale to Gods glory, ſo ex<g ref="char:EOLhyphen"/>ceedingly prophaned; our love to Gods truth, ſo wofully corrupted; our com<g ref="char:EOLhyphen"/>paſſionate affection to our Brethren op<g ref="char:EOLhyphen"/>preſſed; the grievous calamities that lye upon our ſelves, and are ſtill more and more growing upon us; together with the ſad fears which do daily poſſeſſe and afflict our hearts, becauſe of Divine ven<g ref="char:EOLhyphen"/>geance and diſpleaſure ſo imminently impending over our heads,
+<pb n="2" facs="tcp:160090:4"/> and even ready to ſeize upon Church and State, Wee have been forced yet once againe in the diſcharge of our Conſciences, to take the humble boldneſſe to poure forth into your boſomes the ſorrows of our hearts, and to preſent unto your Honours the conceived cauſes of our Miſeries; truſting, that in your grave Wiſdomes, you will both ſee into them, and in your Juſtice give remedy againſt them. For who can ſee Religion, Lawes, Liberties, (things of ſo great and precious concernment,) not onely aſſaulted, but even overwhelmed, and the Unity, Peace, and Proſperity of the Kingdomes violated, and almoſt deſtroy<g ref="char:EOLhyphen"/>ed, and by a treacherous and cowardly ſilence continue to hold his peace? Wee cannot, wee dare not, the oath of God with a curſe lyes upon us, if wee ſhall ſo baſely yeeld to a ſpirit of in<g ref="char:EOLhyphen"/>differency and neutrality, in a Cauſe which doth ſo much con<g ref="char:EOLhyphen"/>cerne Gods glory, and the Kingdomes good, and ſhall not (eſpecially in ſuch a time as this) zealouſly and conſtantly in our places and callings according to our power, apply our ſin<g ref="char:EOLhyphen"/>cereſt endeavours, notwithſtanding all lets and oppoſitions, to promote the ſame.</p>
+            <p n="1">I. It cannot but be acknowledged, moſt worthy Senators, that the Churches of God in times of Reformation, have ever thought it the fitteſt ſeaſon of all others, in ſome extraordinary manner to oblige themſelves unto Almighty God, as the Divine goodneſſe hath put it into your hearts (according to the lauda<g ref="char:EOLhyphen"/>ble practiſe upon all occaſions of the moſt godly and religious Governours) to ſtrike a ſolemne Covenant with him, and by your Authority to enjoyne the ſame to the Kingdomes, for the reformation and defence of Religion, Lawes, Liberties, as an excellent means to acquire the favour of God, and the uniting and ſtrengthening of the three Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> againſt the common enemies of the true Reformed Religion, peace and proſperity of the Kingdomes, to the appa<g ref="char:EOLhyphen"/>rent manifeſtation of your moſt Chriſtian zeale and piety to God and to his truth; wherefore we cannot here but make our ſad complaint unto your Honors in the expreſſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n of our deepeſt ſence of that great diſhonour which is done unto the heavenly Majeſty in the moſt horrible ſlighting and treacherous infringe<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:160090:4"/> of this moſt ſacred Oath, and that bold contempt which is offered at this day to the authority of this Renowned Parlia<g ref="char:EOLhyphen"/>ment, in this their ſo Religious undertaking and injunction, on the one part by thoſe that altogether refuſe to enter into this ho<g ref="char:EOLhyphen"/>ly Covenant of God and the Kingdomes, and on the other part by them which declaime againſt it, and caſt diſgracefull aſperſi<g ref="char:EOLhyphen"/>ons upon it; That we cannot looke at theſe perſons (whatſo<g ref="char:EOLhyphen"/>ever their pretences bee) as any other then either malignant Enemies to the Parliament, or the Peace and Union of the King<g ref="char:EOLhyphen"/>domes, and the Reformation of Religion, nor can we promiſe to our ſelves any ſecurity, ſo long as they are ſuffered undiſcovered, or unpuniſhed, to live among us. We therefore make it our hum<g ref="char:EOLhyphen"/>ble prayer unto your Honors that you would bee pleaſed (as in your pious wiſedome you ſhall thinke moſt fit) to find out and appoint ſuch wayes or meanes, to diſcover and bring ſo great miſdoers and offenders againſt God and your Authority to con<g ref="char:EOLhyphen"/>digne puniſhment, as may bee moſt agreeable to the merit of their ſo crying offences, and that as you have long ſince enjoy<g ref="char:EOLhyphen"/>ned by Ordinance of Parliament the taking of this Sacred Co<g ref="char:EOLhyphen"/>venant, (which notwithſtanding is not yet done in many pla<g ref="char:EOLhyphen"/>ces of this Kingdome) ſo you would countenance and defend it inviolable from neglect, infringement, ſcorne, and defamation, and by your Civill ſanction effectually impoſe it to bee ſworne by all without exception, under ſome certaine penalty, as beſt ſhall ſeeme unto your Honours to bee duly inflicted by your Religious Juſtice upon the wilfull contemners of the ſame. And here give us leave in all humility to offer what ſeems to us both juſt and neceſſary; That ſuch perſons as have not taken, and ſhall not take the Solemne League and Covenant, or having ta<g ref="char:EOLhyphen"/>ken it, are manifeſtly diſaffected to the ends therein expreſſed, eſpecially in point of Religion, may not bee countenanced, im<g ref="char:EOLhyphen"/>ployed in, or advanced to places of publike Truſt, as being a diſcredit to your Government, dangerous to the Kingdomes, and a hindrance to the Reformation of Religion. By ſo doing you ſhall preſerve this great Oath of our God from contempt &amp; violation, a ſin, which we humbly conceive is the chiefeſt cauſe of moſt of thoſe miſeries and calamities that Gods juſt hand hath brought upon us.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:160090:5"/>II. When you did at firſt conclude upon that Sacred Cove<g ref="char:EOLhyphen"/>nant, (wherein now you have ſolemnly engaged both your ſelves and us) how glad were the hearts of all the faithfull in the Land, and what rejoycing was there at the Oath, as in the dayes of <hi>Aſa?</hi> Wee hoped then that our Religion (more pre<g ref="char:EOLhyphen"/>cious then our lives, which was that, the truly godly had chiefly in their eye) had beene ſo ſecured, that all the malice, power, and policy both of men and divells ſhould never have beene able to overturne the ſame; But with bleeding hearts we ſpeake it, how is it, that for all this, ſuch an inunda<g ref="char:EOLhyphen"/>tion of errors, Schiſms, Hereſies, is broken in upon us, which if not ſpeedily prevented by your Wiſdomes, and oppoſed by your impartiall Juſtice, wee feare will have its dreadfull effect to the totall ſubverſion of the power of godlineſſe? Wee are even ſtrucke with aſtoniſhment, that after ſuch a Covenant, there ſhould ſuch blaſphemies bee uttered to Gods higheſt diſhonour; that ſuch Hereticall opinions ſhould bee broached, to the never ſo much vilifying of the truth; that ſuch Schiſmes ſhould bee acted and fomented, to the renting and dividing of the Church; that the Government eſtabliſhed ſhould bee ſo much defamed, and oppoſed to the contempt of the Parliament, in words, in bookes, in practiſe, by the Sectaries of theſe times, who yet ſeeme as men under San<g ref="char:EOLhyphen"/>ctuary, finding nothing done unto them, for the hindring of theſe miſchiefes, or the puniſhment of theſe enormities. God hath done great things for us, and hath ſhewed us great Salvation as at this day, then woe be unto us if theſe be our re<g ref="char:EOLhyphen"/>turnes for ſo great bleſſings. Truſty and Right Worthy Patriots, wee know not whither to goe in theſe our ſad diſtempers, but unto you whom God and this Kingdome hath betruſted with what is moſt precious unto him, and dea<g ref="char:EOLhyphen"/>reſt unto us, the protection of Religion, the preſerving of it in Doctrine pure, and in Diſcipline from contempt and ſcorn, is that for which above all things elſe wee beſeech your Honours againe and againe. Here wee would lay the ſtreſſe of our deſires, and expreſſe the urgency of our affections, Wee
+<pb n="5" facs="tcp:160090:5"/> thinke wee can never ſay enough for our God, and for his Truth: What are our eſtates, our liberties, our lives unto us, if the Arke of God be taken? if that bee gone, the glory, yea, the life of our lives is departed from <hi>England.</hi> Wee tremble to thinke, if a remedy bee not ſuddenly applyed, what will be the iſſue of theſe things. Wherefore our humble deſires are renew<g ref="char:EOLhyphen"/>ed to your Honours, That you would be pleaſed to give Autho<g ref="char:EOLhyphen"/>rity to ſuppreſſe all ſuch from publike Preaching, as have not duely beene Ordained, whereby their gifts for the Miniſtery, and their ſoundneſſe in the Faith might be evinced: As alſo, ſeparate Congregations, the very nurſeries of all damnable Hereſies: That an Ordinance be made for ſome exemplary puniſhment to be in<g ref="char:EOLhyphen"/>flicted upon Heretiques and Schiſmaticks, that your utter diſlike of them and their proceedings may be manifeſt to all the world, which had beene made long ſince to appeare by a well-ſetled Reformation, had not his Majeſty denyed his conſent to the Bill for the Aſſembly, ſo often preſented to him by both Houſes, ac<g ref="char:EOLhyphen"/>cording to your owne Declaration in anſwer to his Majeſties of the 23 of <hi>October</hi> 1642.</p>
+            <p>And that all Godly and Orthodox Miniſters who labour in Gods husbandry, may have encouragement, ſome courſe being thought upon in your Wiſedomes for their competent mainte<g ref="char:EOLhyphen"/>nance, the Lord having ſo ordained, That they which preach the Goſpel, ſhould live of the Goſpel; ſo ſhall Religion flouriſh, the wrath of God be averted, the lips of the juſt ſhall bleſſe you, and a gracious recompence of reward from Gods moſt bounte<g ref="char:EOLhyphen"/>ous hand ſhall ſurely wait upon you.</p>
+            <p>And foraſmuch as the welfare and ſafety of this Kingdome doth next under God in the preſervation of true Religion, de<g ref="char:EOLhyphen"/>pend upon the fundamentall Conſtitutions of the ſame, and the maintenance thereof, which fundamentall Conſtitutions doe moſt eminently appeare in the calling of that Great Councell the Parliament, and in electing of Members for the ſame, where<g ref="char:EOLhyphen"/>in moſt conſpicuouſly doth ſhine the Liberty and Property of the Subject, here wee can doe no leſſe, then make it our hearty prayer unto your Honours, that you would be pleaſed to give ſtrict order, that Writs for a free election without delay may
+<pb n="6" facs="tcp:160090:6"/> be iſſued to all places, where Knights and Burgeſſes for Parlia<g ref="char:EOLhyphen"/>ment are yet to be choſen, and to provide that the people bee not prejudiced in their free choice, either by force, feare, letters, promiſes, or ſollicitations of any; That the Subjects liberties being defended and preſerved, they may be encouraged and bet<g ref="char:EOLhyphen"/>ter enabled to ſerve your Honours and the Publike.</p>
+            <p n="4">IV. And here wee not omit to hint unto your Honours, the exorbitant practices of many Committees and Committee men, who have ſuch an influence by meanes of their Authority upon the people, they being at their wills, and in their power to doe them a diſpleaſure, that they dare not doe otherwiſe then obey their unlawfull Commands, without the inevitable hazard of their peace and ſafety, through which meanes tyranny is exer<g ref="char:EOLhyphen"/>ciſed by one fellow ſubject upon another, and juſtice and equity cannot enter, The cries of all ſorts of people throughout the Land are growne ſo loud againſt the people of this vocation and profeſſion, by reaſon of thoſe grievous oppreſſions that are con<g ref="char:EOLhyphen"/>tinually acted by them, that in tenderneſſe of affection towards our brethren, not being ignorant or inſenſible of our owne ſuf<g ref="char:EOLhyphen"/>ferings in this kinde, and the great diſhonour accruing to the Parliament therby, that we cannot but be earneſt ſuitors to your mercy and juſtice that they may be diſſolved.</p>
+            <p n="5">V. The God of your ſalvation through the timous helpe of his willing people hath now expelled your adverſaries, and brought us ſafe through the Red ſea of our feares and troubles, to the borders of that ſweet <hi>Canaan</hi> of our deſired peace, and what now remaines moſt worthy Patriots, but that in thank<g ref="char:EOLhyphen"/>fullnes to God for his mercy, and in gratefull acknowledgement of the loving affections of his people in their ſo cheerefull ad<g ref="char:EOLhyphen"/>ventures in the Cauſe of God and the Kingdome, But that the heavy yoakes ſhould be looſed to which they ſo readily did ſub<g ref="char:EOLhyphen"/>mit their necks, nay deſired you to put upon them for your ſe<g ref="char:EOLhyphen"/>curity and the Kingdomes weale? Which therefore is our hum<g ref="char:EOLhyphen"/>ble requeſt that the enemies being now ſubdued, the Armies may be disbanded, that the ſo much complained of oppreſſions by their meanes may be redreſſed, and taxes for their ſupport may be releaſed, and the Militia of the Kingdome ſettled, ſo
+<pb n="7" facs="tcp:160090:6"/> ſhall you make it appeare to the ſhame of ſlanderous tongues that this warre hath not beene intended as a trade, but as a meanes of regaining our loſt peace, and that you had no other deſigne in proſecution of the ſame, then the ſecuring of our Re<g ref="char:EOLhyphen"/>ligion, Lawes and Liberties, ſo deſperately invaded by tyranni<g ref="char:EOLhyphen"/>call Oppreſſors; and ſhall indeare the affections of this people to you for your future aſſiſtance, when in a time of neede their helpe ſhall be required, and they will become yours and the Kingdomes ſervants for ever.</p>
+            <p n="6">VI. And now ſince God hath holpen us in our diſtreſſe, it will not be unacceptable ſervice unto him, that we ſhould put forth the bowells of our Compaſſions to our diſtreſſed brethren, as being the moſt kindely fruits of Gods mercifull dealing with our ſelves; And what an object is <hi>Ireland</hi> for this purpoſe? Moſt noble Senators, ſince God hath ſhewen you mercy, in ſub<g ref="char:EOLhyphen"/>duing your enemies here, let us be your earneſt Petitioners for gaſping, dying <hi>Ireland</hi> in this their great extremity: for in thoughts of their calamities our bowells are rowled within us, never did their neceſſities call lowder to your mercy then now they doe.</p>
+            <p n="7">VII. And certainely one ſingular meanes to procure ſo great a bleſſing, muſt needes be the firme and eſtabliſht union of theſe Kingdoms according to our Covenant: in which reſpect we can<g ref="char:EOLhyphen"/>not but with ſorrowfull and perplexed hearts, reſent the helliſh devices of malignant, factious, and ſeditious ſpirits, who make it their daily practiſe, &amp; ſurely would rejoyce in it as their Maſter<g ref="char:EOLhyphen"/>piece, if they could once effect to divide theſe Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland</hi> ſo firmly conjoyned by a bleſſed, and we hope everlaſting union. Therefore we returne againe unto your Ju<g ref="char:EOLhyphen"/>ſtice, that according to our Covenant, condigne puniſhment may be inflicted upon ſuch firebrands, the greateſt enemies to Church and State, and that your Honours would readily apply all tendereſt care in your moſt faithfull and diligent endeavours for the preſervation of that happy union by ſolemne League of theſe two Kingdomes, which is ſo much the envie of our ene<g ref="char:EOLhyphen"/>mies, the ſtrength and glory of Great Bri<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, and the greateſt ſecurity of our Religion, Peace and Proſperity.</p>
+            <p n="8">
+               <pb n="8" facs="tcp:160090:7"/>VIII. And whereas the hand of the Almighty hath ſo eminently appeared on your ſide, that your enemies are falne under you, and hath given the troublers of yours and the King<g ref="char:EOLhyphen"/>domes peace into your hands: Wee doe beſeech that according to the ſeverall qualities of their Delinquencies, your Juſtice may goe forth againſt them with ſpeedy execution. And with<g ref="char:EOLhyphen"/>all, that now you would bee ſo mindefull of your great ingage<g ref="char:EOLhyphen"/>ments, in the full and effectuall diſcharge of the Kingdomes debts (who have ſhewed themſelves ſuch free Contributers, and alſo have beene ſuch extreme ſufferers for your aſſiſtance in the Kingdomes cauſe) as to provide that a faithfull improvement of the eſtates of theſe notorious enemies of the Kingdome may be made by a right converſion of them unto publike uſe. And that thoſe ſtreams of wealth, which daily are flowing in by Compoſi<g ref="char:EOLhyphen"/>tions of Delinquents, may according to your ſolemne promiſes, runne in the right channell, and returne back into that Ocean whence at your deſire they did ſo freely iſſue forth.</p>
+            <p>And whereas in your Wiſdomes, your Honours have made ſo good proviſion, that men of eſtates and fortunes in the world, may be repayed their disburſements upon the loane of ſo much more, as in your Ordinance for the ſale of Biſhops Lands doth more fully appeare: Wee doe intreate that you would pleaſe to take into your further conſideration thoſe well-affected per<g ref="char:EOLhyphen"/>ſons who have ſo freely and fully laid out themſelves, as that they have not been able to make that addition required in the aforeſaid Ordinance, but muſt now be forced for the reliefe of their great neceſſities, to ſell at great loſſe, their very principall lent upon the publick Faith, to their great diſcouragement and diſcontent, which we feare may prove no ſmall impediment to your future aſſiſtance, if neede thereof ſhould be, unleſſe remedy herein ſhall by your Honours be provided.</p>
+            <p n="9">IX. And for Protections wee neede ſay little, ſo much having beene ſaid before in our Remonſtrance, that wee hope your Honours are ſo ſenſible of the ſufferings of thoſe Credi<g ref="char:EOLhyphen"/>tors who have great ſummes of money owing by ſome of your Members, and of the injuſtice of thoſe among them, that have Eſtates to ſatisfie their ingagements, yet will not, but ſtand up<g ref="char:EOLhyphen"/>on
+<pb n="9" facs="tcp:160090:7"/> their priviledge, as there needs no other argument to move your Honours to doe us juſtice in this behalfe.</p>
+            <p n="10">X. And becauſe wee are obliged to indeavour the preſervation of the Liberties of the Kingdome, therefore that wee may performe our engagements as to God and you, ſo likewiſe to the Subjects of the Kingdome, whoſe ſufferings in matters that concer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their Rights are our owne; wee hold our ſelves bound, in all humility, to ſignifie unto your Honours, that contrary to the Rights and Liberties of the Subjects, on Friday evening the 4. or this inſtant moneth, there was an il<g ref="char:EOLhyphen"/>legal Warrant ſigned by Sir <hi>William <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> ſerved upon three of our fellow Subjects, and fellow Citizens, by name <hi>Patrick Bamford, Nicholas Widmerpoole, Valentine Fyge,</hi> to bee taken into cuſtody and committed to a Serjeant at Armes, which thing was alſo done contrary to the Order of that Honourable Houſe, as by ſome of the Committee themſelves was acknowledged. Wherefore wee doe humbly pray, that the aforeſaid Warrant with the manner of its iſſuing forth, may bee taken into your ſerious conſideration for the vindication of the Honour of the Parliament, which is herein ſo much concerned, and mainte<g ref="char:EOLhyphen"/>nance of the Subjects Liberty and to make ſuch reparations to the perſons wronged as may ſtand with juſtice, and in your wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edomes ſhall ſeeme fit.</p>
+            <p>And now renowned Worthies, wee truſt that in your wonted goodneſſe, you will not entertaine any miſconceptions of us, for that wee have endeavoured to bee a little more patheticke and preſſing in our phraſe of ſpeech then heretofore; but that in your wiſedomes you will throughly weigh our feares and ſorrows with our preſſing burdens, which have even forced us as againſt our wills to theſe expreſſions; and that looking upon the ſincere affections of your Petitioners you will pleaſe to make ſo benigne an interpretation of what wee have here repreſented in the urgency of our afflicted ſpirits, as not to thinke wee had the leaſt aime to reflect upon the Hon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur of this famous Parliament: but that the ſenſe of our miſeries in our approa<g ref="char:EOLhyphen"/>ching dangers might ſtand more conſpicuouſly before your eyes, and as by the moſt forcible argument wee could thinke
+<pb n="10" facs="tcp:160090:8"/> upon, effectually to move your Honours (the great Phyſi<g ref="char:EOLhyphen"/>tians of our Church and State) to apply your moſt ſea<g ref="char:EOLhyphen"/>ſonable and ſpeedy helpe. The Glory of God, the ſafety of our Religion and Liberties, and the Kingdomes welfare, is that wee levell at in this our undertaking, If through your fa<g ref="char:EOLhyphen"/>vourable acceptation of theſe our humble addreſſes wee may obtaine the ſecurity of theſe, wee have our utmoſt aime; And you ſhall bee called the Repairers of the breaches, the Reſto<g ref="char:EOLhyphen"/>rers of paths to dwell in, you ſhall raiſe monuments of your eter<g ref="char:EOLhyphen"/>nall praiſes, the Churches of God ſhall call you bleſſed, and you ſhall for ever engage us not to thinke our eſtates or lives too deare to ſerve your Honours and the Publique ſo long as wee have breath and being.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
